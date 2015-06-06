@@ -178,4 +178,7 @@ rm /usr/lib/libgnome-keyring.so.0
 rm /usr/lib/libgnome-keyring.so.0.2.0
 wget https://www.elance.com/tracker/TrackerSetup.deb
 dpkg -i TrackerSetup.deb
+
+## phpMyAdmin
+sudo apt-get  install phpmyadmin
 fi
