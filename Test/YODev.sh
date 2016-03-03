@@ -4,7 +4,7 @@
 # -------------------------------------------------------------------------
 # Version 1.0 (May 10 2015)
 # -------------------------------------------------------------------------
-# Copyright (c) 2013 Anmol Nagpal <http://www.tweakntip.in>
+# Copyright (c) 2013 Anmol Nagpal <http://www.anmolnagpal.com>
 # This script is licensed under GNU GPL version 2.0 or above
 # -------------------------------------------------------------------------
 
