@@ -129,6 +129,7 @@ apt-get install diffuse -y # compare file
 apt-get install bmon -y
 apt-get install meld -y # compare tool
 apt-get install wine -y #Wine
+sudo apt-get install slack -y # slack 
 apt-get install xpad -y # Xpad
 apt-get install shutter -y # Screen Shot Tool
 sudo apt-get install vim -y # Editor
