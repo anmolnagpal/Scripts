@@ -1,3 +1,5 @@
+##Reset 30/30/30
+
 Push reset button for 30 secs.
 Without releasing reset button, disconnect power cord.
 Hold the reset button for another 30 secs.
